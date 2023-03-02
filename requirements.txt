@@ -1,4 +1,0 @@
-pandas
-matplotlib.pyplot
-numpy
-statsmodels.api
